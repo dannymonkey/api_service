@@ -1,0 +1,6 @@
+numpy
+pandas
+requests
+psycopg2-binary==2.9.2
+flask
+sklearn
